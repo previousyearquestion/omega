@@ -7,15 +7,19 @@ Madam, madam!
 Enter Sylvia, above.
 
 SYLVIA  Who calls?
+
 EGLAMOUR  Your servant, and your friend,
 One that attends your Ladyship’s command.
+
 SYLVIA 
 Sir Eglamour, a thousand times good morrow.
+
 EGLAMOUR 
 As many, worthy lady, to yourself.
 According to your Ladyship’s impose,
 I am thus early come to know what service
 It is your pleasure to command me in.
+
 SYLVIA 
 O Eglamour, thou art a gentleman—
 Think not I flatter, for I swear I do not—
@@ -43,6 +47,7 @@ As full of sorrows as the sea of sands,
 To bear me company and go with me;
 If not, to hide what I have said to thee,
 That I may venture to depart alone.
+
 EGLAMOUR 
 Madam, I pity much your grievances,
 Which, since I know they virtuously are placed,
@@ -50,13 +55,18 @@ I give consent to go along with you,
 Recking as little what betideth me
 As much I wish all good befortune you.
 When will you go?
+
 SYLVIA  This evening coming.
+
 EGLAMOUR 
 Where shall I meet you?
+
 SYLVIA  At Friar Patrick’s cell,
 Where I intend holy confession.
+
 EGLAMOUR 
 I will not fail your Ladyship. Good morrow, gentle
 lady.
+
 SYLVIA 
 Good morrow, kind Sir Eglamour.
