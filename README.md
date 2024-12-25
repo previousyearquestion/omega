@@ -6,7 +6,8 @@ Madam, madam!
 
 Enter Sylvia, above.
 
-SYLVIA  Who calls?
+SYLVIA  
+Who calls?
 
 EGLAMOUR  Your servant, and your friend,
 One that attends your Ladyship’s command.
@@ -56,7 +57,8 @@ Recking as little what betideth me
 As much I wish all good befortune you.
 When will you go?
 
-SYLVIA  This evening coming.
+SYLVIA  
+This evening coming.
 
 EGLAMOUR 
 Where shall I meet you?
