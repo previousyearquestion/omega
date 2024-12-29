@@ -1,3 +1,4 @@
+//length of longest substring without repeating characters within any string
 public int lengthOfLongestSubstring(String s) {
 		String chk="";
 		int max=0,i,j;
